@@ -1,3 +1,7 @@
 # 251RCOSE45700
 
-.\gradlew run --stacktrace
+This is a repository for COSE457 class.
+
+```
+.\gradlew run
+```
